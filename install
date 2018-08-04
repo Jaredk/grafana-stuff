@@ -1,0 +1,2 @@
+#! /bin/bash
+ansible-playbook grafana.yml --ask-beocome-pass --ask-vault-pass
